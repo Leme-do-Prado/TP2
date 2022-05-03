@@ -18,6 +18,7 @@ public class TP02EX02 {
 		double media  = incrementador / 10;
 		
 		System.out.println(maior);
+		System.out.println(incrementador);
 		System.out.println(media);
 	}
 }
